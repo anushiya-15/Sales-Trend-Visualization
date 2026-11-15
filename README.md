@@ -1,3 +1,18 @@
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: ANUSHIYA R
+
+*INTERN ID*: CITS9913
+
+*DOMAIN*:DATA ANALYTICS INTERN
+
+*DURATION*: 4 WEEKS
+
+
+
+
+
+
 # 📊 Sales Trend Visualization
 
 ## 1. Project Overview
